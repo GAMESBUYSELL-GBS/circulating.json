@@ -1,0 +1,2 @@
+# circulating.json
+Circulating Supply
